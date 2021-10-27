@@ -45,4 +45,4 @@ Unless stated otherwise (just look at the project's README) contributions are al
 If you appreciate my work, I'd be more than happy to take some of your hard-earned crypto.
 
 [**XMR** \
-`84b5mB7MBgn3RtG9YvFpbnaK8pJKWawN9g1xM6VG4L4UHF6z1EMxA83F2Fz1sxHPjNgqRVmyR37NnatMwZbqfgb94YQrTNz`](monero:84b5mB7MBgn3RtG9YvFpbnaK8pJKWawN9g1xM6VG4L4UHF6z1EMxA83F2Fz1sxHPjNgqRVmyR37NnatMwZbqfgb94YQrTNz?recipient_name=mib&tx_description=Donation%20to%20mib)
+`83Z8Gc55waWaCkhUSzGrgcXeb9mD9TfSNg4U9DznoG9MiVdXJ7yMeVg7gX2h8EAgkMQtzmGZrRvZU7Guz7eCkjqX5b7RtTs`](monero:83Z8Gc55waWaCkhUSzGrgcXeb9mD9TfSNg4U9DznoG9MiVdXJ7yMeVg7gX2h8EAgkMQtzmGZrRvZU7Guz7eCkjqX5b7RtTs?recipient_name=mib&tx_description=Donation%20to%20mib)
