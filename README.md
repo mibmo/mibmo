@@ -12,7 +12,4 @@
 <a href="https://mx.kanp.ai/#/@mib:kanp.ai">
 	<img width="80em" alt="Matrix" src="https://raw.githubusercontent.com/mibmo/mibmo/main/logos/matrix.svg">
 </a>
-<a href="https://twitter.com/mibmos">
-	<img width="80em" alt="Twitter" src="https://raw.githubusercontent.com/mibmo/mibmo/main/logos/twitter.svg">
-</a>
 </div>
